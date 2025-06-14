@@ -1,0 +1,13 @@
+		Laptop Shop Customer Invoice
+Basundhara, Kathmandu | Phone No: 9766304470
+---------------------------------------------------------
+Customer Name: anil nepali
+Contact: 98877
+Date & Time: 2025-06-11 10:08:45
+---------------------------------------------------------
+Laptop              Qty   Unit Price  Total
+XPS                 3     $1976.00    $5928.00
+---------------------------------------------------------
+Subtotal: $5928.00
+Shipping: $50.00
+Total: $5978.00
