@@ -15,9 +15,9 @@ and widely used in web development, automation, data analysis, machine learning,
 
 ## 📚 Resources I Used
 
-- [Python YouTube Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&feature=shared)
-- [Another YouTube Tutorial](https://youtu.be/nLRL_NcnK-4?feature=shared)
-- [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [100 days of code with harry](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&feature=shared)
+- [CS50 introduction to python ](https://youtu.be/nLRL_NcnK-4?feature=shared)
+- [Official Python documentation](https://docs.python.org/3/tutorial/index.html)
 - [W3Schools Python](https://www.w3schools.com/python/)
 
 ## 🧠 Topics Covered
