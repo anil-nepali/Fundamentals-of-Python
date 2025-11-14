@@ -1,0 +1,13 @@
+		Laptop Shop Customer Invoice
+Basundhara, Kathmandu | Phone No: 9766304470
+---------------------------------------------------------
+Customer Name: anil nepali
+Contact: 777
+Date & Time: 2025-06-11 08:12:45
+---------------------------------------------------------
+Laptop              Qty   Unit Price  Total
+XPS                 5     $1976.00    $9880.00
+---------------------------------------------------------
+Subtotal: $9880.00
+Shipping: $50.00
+Total: $9930.00
